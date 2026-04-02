@@ -1,4 +1,4 @@
-# 🧠 Modern Neural Network Architectures Course
+# [🧠 Modern Neural Network Architectures Course](https://github.com/itmo-cv-lab/modern-nn-architectures-course)
 
 A comprehensive course on modern neural network architectures, covering the evolution from classical CNNs to advanced Transformers, diffusion models, and state-of-the-art generative AI.
 
