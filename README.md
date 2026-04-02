@@ -4,10 +4,7 @@ A comprehensive course on modern neural network architectures, covering the evol
 
 ## 📚 Course Lectures
 
-### [📖 Lecture 0: Introduction](./0/)
-Welcome to the Modern Neural Network Architectures course! This introductory lecture provides an overview of the course structure, expectations, and resources.
-
-### [🧠 Lecture 1: Convolutional Neural Networks](./1/)
+### [🧠 Lecture 1: Convolutional Neural Networks](https://github.com/0z0nize/Modern_NN_Architectures_Course/blob/main/Shkarovskiy_1.ipynb)
 This lecture explores the evolution of convolutional neural networks from the pioneering LeNet (1990) to the state-of-the-art EfficientNet (2019). We'll dive deep into the architectural innovations, design principles, and breakthroughs that shaped modern CNN development over three decades.
 
 ### [🔄 Lecture 2: Transformers Basic](./2/)
